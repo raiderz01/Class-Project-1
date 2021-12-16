@@ -1,0 +1,19 @@
+header {
+    width: 50%;
+    background-color: lightblue;
+    margin: 0;
+    padding: 30px;
+    border: 1px solid black;
+    margin: 50px;
+
+}
+
+main {
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: green;
+    color: yellow;
+  }
